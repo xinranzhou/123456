@@ -1,0 +1,137 @@
+/* Turquise-Orange */
+
+a:hover{color:#71cbd3;}
+h1 a { background: url("logo.png") no-repeat scroll left top transparent; }
+th { background-color:#e23d21; color: #bbb; }
+label { color:#e23d21; }
+.meta {color: #71cbd3;} 
+
+.button-submit {color: #e23d21;}
+.button-reset:hover {color: #71cbd3; background:url(button-clear-hover.png) no-repeat 0 30px;}
+
+.read-more {color: #e23d21;}
+.read-more:hover  {color: #71cbd3;}
+
+.read-more span.circle-arrow, .button-submit span.circle-arrow  {background: url("btn-read-more.png") no-repeat scroll 0 0 transparent;}
+.read-more:hover span.circle-arrow, .button-submit:hover span.circle-arrow {background: url("btn-read-more.png") no-repeat scroll 0 -63px transparent; }
+
+ul.bullets li, ul.arrows li, ul.stars li, ul.checklist li { background-image: url("bullets-arows.png"); }
+
+.pagination a:hover, .pagination .current {color:#e23d21; }
+.pagination a.previous-1{ color:#e23d21; }
+.pagination a.previous-1:hover { color:#71cbd3; }	
+.pagination a.previous-1 span.circle-arrow-left { background: url("btn-read-more-left.png") no-repeat scroll left 0px transparent;}
+.pagination a.previous-1:hover span.circle-arrow-left { background: url("btn-read-more-left.png") no-repeat scroll left -63px transparent; }
+
+.pagination a.next-1 { color: #e23d21; }
+.pagination a.next-1:hover { color:#71cbd3; }
+
+.pagination a.next-1 span.circle-arrow { background: url("btn-read-more.png") no-repeat scroll 0 0 transparent;}
+.pagination a.next-1:hover span.circle-arrow { background: url("btn-read-more.png") no-repeat scroll 0 -63px transparent; }
+
+span.mark { background-color:#71cbd3; }
+
+.dd-menu li a { color: #71cbd3; }
+.dd-menu li a:hover, .dd-menu li.current-menu-item a, .dd-menu li a.dd-path { 
+	background-position: 0px -14px;
+	color: #e23d21;
+}
+.dd-menu ul li a { color: #71cbd3; }
+.dd-menu ul li a:hover { background-color: #e23d21; }
+.dd-menu a span.dd-arrow { background-image: url("menu-arrows.png"); }
+
+.dd-menu li ul li a, .dd-menu li.current-menu-item ul li a { color: #e23d21; }
+.dd-menu li ul li {
+    border-color: #71cbd3;
+    border-style: dotted;
+    border-width: 1px 1px 0 0;
+}
+.dd-menu li ul {
+    border-color: #71cbd3;
+    border-style: dotted;
+    border-width: 0 0 1px 1px;
+}
+.dd-menu li ul li a:hover, .dd-menu li.current-menu-item ul li a:hover, .dd-menu li ul li a.dd-path {
+background-color: #71cbd3; }
+
+.breadcrumbs a { color: #e23d21; }
+.breadcrumbs a:hover { color: #999; }
+
+ul.subfooter-menu li a:hover { color: #e23d21; }
+
+#intro { background:url(bgd-teaser.png) repeat-x left top; }
+
+#slider-pagination a { color: #71cbd3;}
+#slider-pagination a:hover, #slider-pagination li.activeSlide a { color: #e23d21; }
+#slider-bg { background:url(homepage-bg.png) no-repeat left top; }
+
+span.previous, span.next { background: url("menu-arrows.png") no-repeat scroll transparent; }
+span.previous { background-position: 0 -64px; }
+span.previous:hover { background-position: 0 -53px; }
+span.next { background-position: 6px -41px; }
+span.next:hover { background-position: 6px -30px; }
+
+#cat-slider { background: url("homepage-slider-bg.jpg") no-repeat scroll 0 1px transparent; }
+#cat-slider h2 { color: #e23d21; }
+#cat-slider a { color: #71cbd3; }
+#cat-slider a:hover { color: #e23d21; }
+
+.up-arrow, .down-arrow { background: url("vertical-slider-buttons.png") no-repeat scroll 0 0 transparent; }
+.down-arrow { background-position: 0 -42px; }
+
+#featured .page h2{ color: #e23d21; }
+#featured .widget-working-hours h3{ color: #71cbd3; }
+
+.clock{ background: url(clock.png) no-repeat 0 0 scroll transparent; }
+.phone{ background: url(phone.png) no-repeat 0 0 scroll transparent; }
+
+#container-middle{ background : url(homepage-string-middle.png) repeat-x top left scroll transparent; }
+#container-middle h4{ color: #e23d21; }
+#container-middle .read-more  {color: #e23d21;}
+#container-middle .read-more span.circle-arrow{ background: url("btn-read-more.png") no-repeat scroll left 0px transparent; }
+#container-middle .read-more:hover span.circle-arrow{ background: url("btn-read-more.png") no-repeat scroll left -126px transparent; }
+
+.page h2{color:#71cbd3;}
+
+h2.portfolio-title {color: #71cbd3; }
+h4.portfolio-title { color: #e23d21; }
+
+
+.portfolio-menu h3.title a {color: #71cbd3;}
+.portfolio-menu h3.title a:hover { color: #e23d21; }
+.portfolio-menu h4 {color: #e23d21; }
+
+.post h1 { color: #71cbd3; }
+.post h2 { color: #71cbd3; }
+.post h2 a{color: #71cbd3;}
+.post h2 a:hover { color:#e23d21; }
+
+.post .meta .comments { background: url("icon-cloud.png") no-repeat scroll left top transparent; }
+.post .meta .comments a { color:#e23d21; }
+.post .meta .comments a:hover { color: #71cbd3; }
+
+#comments h2 { color:#e23d21; }
+#comments li.replay a { color: #EF451E; }
+#comments a.replay { background: url("arrow-left-small.png") no-repeat scroll right center transparent; color: #e23d21; }
+#comments a.replay:hover { background: url("arrow-left-small-hover.png") no-repeat scroll right center transparent; color: #71cbd3; }
+
+.widget-upcoming a:hover{ color:#71cbd3; }
+.widget-upcoming p span{ color: #71cbd3; }
+.widget h5 a:hover{color: #71CBD3;}
+.widget-latest-news span{ color: #71CBD3; }
+.widget-latest-news h5 a:hover {color: #71CBD3;}
+.widget-latest-posts a:hover{ color: #71cbd3; }
+.widget-archives a:hover{ color: #71cbd3; }
+.widget-caregories a:hover { color: #71cbd3; }
+.widget h4 { color: #71cbd3; text-transform:uppercase; }
+.widget-social li a{ background: url(btn-social.png) no-repeat scroll transparent; }
+.widget-address p a {color:#71cbd3;}
+.widget-address p a:hover {color:#e23d21;}
+.widget-recent a:hover{ color:#71cbd3; }
+
+.google-map h3 { color:#e23d21; }
+
+
+
+
+

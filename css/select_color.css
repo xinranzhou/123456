@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+#nav {
+    left: 0;
+    list-style: none outside none;
+    margin-left: 0;
+    overflow: hidden;
+    padding: 15px;
+    position: absolute;
+    top: 145px;
+    z-index: 1000;
+}
+#nav li {
+    display: block;
+}
+#nav li a{
+    display: block;
+    height: 30px;
+    width: 30px;
+}
+#nav li a:hover{
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+}
+.Green-Blue{
+    background: url(../images/Green-Blue.png) no-repeat center;
+}
+.Grey-Red{
+    background: url(../images/Grey-Red.png) no-repeat center;
+}
+.Orange-Red{
+    background: url(../images/Orange-Red.png) no-repeat center;
+}
+.Pink-Grey{
+    background: url(../images/Pink-Grey.png) no-repeat center;
+}
+.Purple-Brown{
+    background: url(../images/Purple-Brown.png) no-repeat center;
+}
+.Turquise-Black{
+    background: url(../images/Turquise-Black.png) no-repeat center;
+}
+.Turquise-Grey{
+    background: url(../images/Turquise-Grey.png) no-repeat center;
+}
+.Turquise-Orange{
+    background: url(../images/Turquise-Orange.png) no-repeat center;
+}
+.Yellow-Orange{
+    background: url(../images/Yellow-Orange.png) no-repeat center;
+}
+.Yellow-Purple{
+    background: url(../images/Yellow-Purple.png) no-repeat center;
+}

@@ -1,0 +1,136 @@
+/*yelow-orange*/
+
+a:hover{color:#f8ab01;}
+h1 a { background: url("logo.png") no-repeat scroll left top transparent; }
+th { background-color:#f55029; color: #bbb; }
+label { color:#f55029; }
+.meta {color: #f8ab01;}
+
+.button-submit {color: #f55029;}
+.button-reset:hover {color: #f8ab01; background:url(button-clear-hover.png) no-repeat 0 30px;}
+
+.read-more {color: #f55029;}
+.read-more:hover  {color: #f8ab01;}
+
+.read-more span.circle-arrow, .button-submit span.circle-arrow  {background: url("btn-read-more.png") no-repeat scroll 0 0 transparent;}
+.read-more:hover span.circle-arrow, .button-submit:hover span.circle-arrow {background: url("btn-read-more.png") no-repeat scroll 0 -63px transparent; }
+
+ul.bullets li, ul.arrows li, ul.stars li, ul.checklist li { background-image: url("bullets-arows.png"); }
+
+.pagination a:hover, .pagination .current {color:#f55029; }
+.pagination a.previous-1{ color:#f55029; }
+.pagination a.previous-1:hover { color:#f8ab01; }
+.pagination a.previous-1 span.circle-arrow-left { background: url("btn-read-more-left.png") no-repeat scroll left 0px transparent;}
+.pagination a.previous-1:hover span.circle-arrow-left { background: url("btn-read-more-left.png") no-repeat scroll left -63px transparent; }
+
+.pagination a.next-1 { color: #f55029; }
+.pagination a.next-1:hover { color:#f8ab01; }
+
+.pagination a.next-1 span.circle-arrow { background: url("btn-read-more.png") no-repeat scroll 0 0 transparent;}
+.pagination a.next-1:hover span.circle-arrow { background: url("btn-read-more.png") no-repeat scroll 0 -63px transparent; }
+
+span.mark { background-color:#f8ab01; }
+
+.dd-menu li a { color: #f8ab01; }
+.dd-menu li a:hover, .dd-menu li.current-menu-item a, .dd-menu li a.dd-path {
+    background-position: 0px -14px;
+    color: #f55029;
+}
+.dd-menu ul li a { color: #f8ab01; }
+.dd-menu ul li a:hover { background-color: #f55029; }
+.dd-menu a span.dd-arrow { background-image: url("menu-arrows.png"); }
+
+.dd-menu li ul li a, .dd-menu li.current-menu-item ul li a { color: #f55029; }
+.dd-menu li ul li {
+    border-color: #f8ab01;
+    border-style: dotted;
+    border-width: 1px 1px 0 0;
+}
+.dd-menu li ul {
+    border-color: #f8ab01;
+    border-style: dotted;
+    border-width: 0 0 1px 1px;
+}
+.dd-menu li ul li a:hover, .dd-menu li.current-menu-item ul li a:hover, .dd-menu li ul li a.dd-path {
+    background-color: #f8ab01; }
+
+.breadcrumbs a { color: #f55029; }
+.breadcrumbs a:hover { color: #999; }
+
+ul.subfooter-menu li a:hover { color: #f55029; }
+
+#intro { background:url(bgd-teaser.png) repeat-x left top; }
+
+#slider-pagination a { color: #f8ab01;}
+#slider-pagination a:hover, #slider-pagination li.activeSlide a { color: #f55029; }
+#slider-bg { background:url(homepage-bg.png) no-repeat left top; }
+
+span.previous, span.next { background: url("menu-arrows.png") no-repeat scroll transparent; }
+span.previous { background-position: 0 -64px; }
+span.previous:hover { background-position: 0 -53px; }
+span.next { background-position: 6px -41px; }
+span.next:hover { background-position: 6px -30px; }
+
+#cat-slider { background: url("homepage-slider-bg.jpg") no-repeat scroll 0 1px transparent; }
+#cat-slider h2 { color: #f55029; }
+#cat-slider a { color: #f8ab01; }
+#cat-slider a:hover { color: #f55029; }
+
+.up-arrow, .down-arrow { background: url("vertical-slider-buttons.png") no-repeat scroll 0 0 transparent; }
+.down-arrow { background-position: 0 -42px; }
+
+#featured .page h2{ color: #f55029; }
+#featured .widget-working-hours h3{ color: #f8ab01; }
+
+.clock{ background: url(clock.png) no-repeat 0 0 scroll transparent; }
+.phone{ background: url(phone.png) no-repeat 0 0 scroll transparent; }
+
+#container-middle{ background : url(homepage-string-middle.png) repeat-x top left scroll transparent; }
+#container-middle h4{ color: #f55029; }
+#container-middle .read-more  {color: #f55029;}
+#container-middle .read-more span.circle-arrow{ background: url("btn-read-more.png") no-repeat scroll left 0px transparent; }
+#container-middle .read-more:hover span.circle-arrow{ background: url("btn-read-more.png") no-repeat scroll left -126px transparent; }
+
+.page h2{color:#f8ab01;}
+
+h2.portfolio-title {color: #f8ab01; }
+h4.portfolio-title { color: #f55029; }
+
+
+.portfolio-menu h3.title a {color: #f8ab01;}
+.portfolio-menu h3.title a:hover { color: #f55029; }
+.portfolio-menu h4 {color: #f55029; }
+
+.post h1 { color: #f8ab01; }
+.post h2 { color: #f8ab01; }
+.post h2 a{color: #f8ab01;}
+.post h2 a:hover { color:#f55029; }
+
+.post .meta .comments { background: url("icon-cloud.png") no-repeat scroll left top transparent; }
+.post .meta .comments a { color:#f55029; }
+.post .meta .comments a:hover { color: #f8ab01; }
+
+#comments h2 { color:#f55029; }
+#comments li.replay a { color: #EF451E; }
+#comments a.replay { background: url("arrow-left-small.png") no-repeat scroll right center transparent; color: #f55029; }
+#comments a.replay:hover { background: url("arrow-left-small-hover.png") no-repeat scroll right center transparent; color: #f8ab01; }
+
+.widget-upcoming a:hover{ color:#f8ab01; }
+.widget-upcoming p span{ color: #f8ab01; }
+.widget h5 a:hover{color: #f55029;}
+.widget-latest-news span{ color: #f8ab01; }
+.widget-latest-news h5 a:hover {color: #f55029;}
+.widget-latest-posts a:hover{ color: #f8ab01; }
+.widget-archives a:hover{ color: #f8ab01; }
+.widget-caregories a:hover { color: #f8ab01; }
+.widget h4 { color: #f8ab01; text-transform:uppercase; }
+.widget-social li a{ background: url(btn-social.png) no-repeat scroll transparent; }
+.widget-address p a {color:#f8ab01;}
+.widget-address p a:hover {color:#f55029;}
+.widget-recent a:hover{ color:#f8ab01; }
+
+.google-map h3 { color:#f55029; }
+
+
+
+
